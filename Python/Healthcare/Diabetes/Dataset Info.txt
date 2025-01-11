@@ -1,0 +1,15 @@
+About the Dataset
+This dataset originates from the National Institute of Diabetes and Digestive and Kidney Diseases. The primary goal is to predict whether a patient has diabetes based on specific diagnostic measurements provided in the dataset. The instances in this dataset were selected from a larger database, with particular constraints applied. Notably, all patients included are females aged 21 years or older and of Pima Indian heritage.  
+
+The dataset, available in a `.csv` file, contains several attributes. Most of these are independent variables (medical predictor variables), while one is a dependent target variable (`Outcome`).  
+
+Dataset Attribute Information
+- Pregnancies: Number of pregnancies.  
+- Glucose: Blood glucose level.  
+- BloodPressure: Blood pressure measurement.  
+- SkinThickness: Thickness of the skin.  
+- Insulin: Blood insulin level.  
+- BMI: Body Mass Index (BMI).  
+- DiabetesPedigreeFunction: Diabetes probability based on family history.  
+- Age: Patient's age.  
+- Outcome: The prediction result (1 = Yes, has diabetes; 0 = No, does not have diabetes).  
